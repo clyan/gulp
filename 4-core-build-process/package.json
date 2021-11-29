@@ -1,0 +1,21 @@
+{
+  "name": "4-core-build-process",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ywymoshi/gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ywymoshi/gulp/issues"
+  },
+  "homepage": "https://github.com/ywymoshi/gulp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
