@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
+  "author": {
+    "name": "ywymoshi",
+    "email": "2429335889@qq.com"
+  },
   "scripts": {
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
   },
@@ -13,7 +17,6 @@
     "lib",
     "bin"
   ],
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.5.5",
